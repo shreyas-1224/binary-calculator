@@ -1,1 +1,1 @@
-this binary calculaltor can perform calculations of arbitraru long digit numbers . these calculations are solved by infix evaluation using two stack. numbers are stored in nodes of linked list and these linked list are stored in one stack. another stack stores operators. check function tell if your expression is correct or not. 
+
